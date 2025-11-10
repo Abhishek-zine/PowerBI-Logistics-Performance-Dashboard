@@ -1,7 +1,7 @@
 # 🚛 Power BI Logistics Performance Dashboard
 
 ### 🎯 Objective
-To design an **interactive Power BI dashboard** for analyzing **carrier performance, delay reasons, and load efficiency** across logistics operations — improving visibility, reducing delays, and enabling data-driven decisions.
+To design an **interactive Power BI dashboard** for analyzing **walmart carrier performance, delay reasons, and load efficiency** across logistics operations — improving visibility, reducing delays, and enabling data-driven decisions.
 
 ---
 
