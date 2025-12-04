@@ -1,0 +1,20 @@
+{
+  "title": "Power BI Logistics Performance Dashboard",
+  "summary": "An interactive Power BI dashboard for analyzing Walmart carrier performance, delay reasons, and load efficiency across logistics operations — improving visibility, reducing delays, and enabling data-driven decisions.",
+  "role": "Power BI Developer",
+  "tools": [
+    "Power BI",
+    "DAX",
+    "SQL Server",
+    "Power Query (M)"
+  ],
+  "highlights": [
+    "Designed interactive dashboard for carrier performance analysis",
+    "Built data models connecting multiple SQL Server tables",
+    "Implemented DAX measures for on-time performance and delay analysis",
+    "Created carrier reliability ranking and customer-level insights"
+  ],
+  "thumbnail": "assets/screenshots/dashboard-preview.png",
+  "date": "2025",
+  "url": null
+}
